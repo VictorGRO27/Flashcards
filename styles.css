@@ -10,6 +10,10 @@ justify-content: space-between;
 align-items: center; 
 padding: 15px 25px;
 }
+.cabecalho-link { 
+  color: #fff; 
+  text-decoration: none; 
+} 
 
 .cartao {
 width: 260px;
