@@ -35,3 +35,8 @@ body {
 main { 
   flex: 1; 
 } 
+footer { 
+  background-color: #7e3e1c; 
+  padding: 15px 25px; 
+  color: #fff; 
+} 
