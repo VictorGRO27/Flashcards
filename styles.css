@@ -23,6 +23,7 @@ body {
   display: flex; 
   flex-direction: column; 
   min-height: 100vh; 
+  background-color: #f5f2f2; 
 } 
 main { 
   flex: 1; 
@@ -34,4 +35,9 @@ main {
 h1 { 
   color: #fff; 
   font-size: 24px; 
+} 
+footer { 
+  background-color: #7e3e1c; 
+  padding: 15px 25px; 
+  color: #fff; 
 } 
