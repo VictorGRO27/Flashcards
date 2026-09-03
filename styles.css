@@ -53,7 +53,8 @@ footer {
   transform: rotateY(180deg); 
 } 
 .cartao-frente, .cartao-verso {
-  display: flex; 
+  display: flex;
+  width: 200px;
   position: absolute; 
   border-radius: 12px; 
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); 
