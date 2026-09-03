@@ -54,7 +54,9 @@ footer {
 } 
 .cartao-frente, .cartao-verso {
   width: 100%;
-  height: auto;
+  height: 100%;
+  display: block;
+  object-fit: cover;
   position: absolute; 
   border-radius: 12px; 
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); 
