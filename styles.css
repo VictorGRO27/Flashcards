@@ -68,7 +68,7 @@ footer {
 } 
 section { 
   display: flex; 
-  gap: 5px; 
+  gap: 16px; 
 } 
 p {
     background-color:#8d8b00
